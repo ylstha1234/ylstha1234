@@ -8,7 +8,6 @@
 - 🌱 I’m currently learning **Cloud Computing, Machine Learning, and Big Data Technologies.**
 - 💬 Ask me about **Data related subject matters.**
 - 📫 How to reach me: **yuddha.shrestha12@gmail.com**
-<h3 align = "left">Connect with me: </h3> 
   
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
