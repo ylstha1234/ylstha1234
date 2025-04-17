@@ -3,8 +3,6 @@
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=babucodes&label=Profile%20views&color=0e75b6&style=flat" alt="babucodes" />
 </p>
-<img align="right" width="400" src="https://cdn.analyticsvidhya.com/wp-content/uploads/2023/05/data_engineer_hero_2.jpg" alt="Data Engineer">
-
 
 - 🔭 I’m currently working on a **Real-Time Transaction Processing System.**
 - 🌱 I’m currently learning **Cloud Computing, Machine Learning, and Big Data Technologies.**
