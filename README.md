@@ -1,7 +1,9 @@
+[![trophy](https://github-profile-trophy.vercel.app/?username=ylstha1234&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 <h1 align = "center"> Hi 👋 I'm Yuddha Shrestha </h1>
 <h2 align="center">A passionate Data Engineer and Analyst </h2>
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=babucodes&label=Profile%20views&color=0e75b6&style=flat" alt="babucodes" />
+  <img src="https://komarev.com/ghpvc/?username=ylstha1234&label=Profile%20views&color=0e75b6&style=flat" alt="ylstha1234" />
 </p>
 
 - 🔭 I’m currently working on a **Real-Time Transaction Processing System.**
