@@ -92,6 +92,26 @@
 
 
 
+
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ylstha1234&show_icons=true&locale=en&layout=compact&cache_seconds=3600" alt="ylstha1234" />
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ylstha1234&show_icons=true&locale=en" alt="ylstha1234" /></p>
+
+
+
+<p align="center">
+  <img width="800" height="220" src="https://streak-stats.demolab.com?user=naresy&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
+</p>
+<p align="center">
+  <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=ylstha1234&show_icons=true&theme=vision-friendly-dark">
+  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ylstha1234&size_weight=0.0005&count_weight=0.3&layout=compact&theme=vision-friendly-dark">
+</p>
+
+<div id="header" align="center">
+  <img src="https://komarev.com/ghpvc/?username=ylstha1234&style=for-the-badge&color=orange" alt=""/>
+</div>
+
+<p align="center">
+ <img width="1000" src="github-snake.svg" alt="snake"/>
+</p>
+
