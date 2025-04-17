@@ -4,7 +4,7 @@
   <img src="https://komarev.com/ghpvc/?username=babucodes&label=Profile%20views&color=0e75b6&style=flat" alt="babucodes" />
 </p>
 
--🔭 I’m currently working on a **new project**
+#🔭 I’m currently working on a **new project**
 - 🌱 I’m currently learning **Machine Learning**
 - 💬 Ask me about **Data**
 - 📫 How to reach me: **babu.engineer@gmail.com**
