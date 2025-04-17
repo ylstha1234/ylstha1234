@@ -1,4 +1,4 @@
-## Hi 👋 I'm Yuddha Shrestha
+<h1 align = "center"> Hi 👋 I'm Yuddha Shrestha </h1>
 
 ## <!--
 **ylstha1234/ylstha1234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
