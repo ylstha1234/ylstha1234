@@ -1,5 +1,3 @@
-[![trophy](https://github-profile-trophy.vercel.app/?username=ylstha1234&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
 <h1 align = "center"> Hi 👋 I'm Yuddha Shrestha </h1>
 <h2 align="center">A passionate Data Engineer and Analyst </h2>
 <p align="left">
