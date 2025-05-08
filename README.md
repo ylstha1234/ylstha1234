@@ -5,7 +5,7 @@
 </p>
 
 - 🔭 I’m currently working on a **Real-Time Transaction Processing System.**
-- 🌱 I’m currently learning **Cloud Computing, Machine Learning, and Big Data Technologies.**
+- 🌱 I’m currently learning **Machine Learning, and Big Data Technologies.**
 - 💬 Ask me about **Data related subject matters.**
 - 📫 How to reach me: **yuddha.shrestha12@gmail.com**
   
